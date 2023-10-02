@@ -143,7 +143,9 @@ Berikut tampilan Nullboard (dark mode) saat pengguna menuliskan task kepanitiaan
 
 ---
 ## Pembahasan
-Nullboard adalah sebuah Webapp yang sangat mudah dan praktis untuk digunakan dalam pencatatan task dalam sebuah kepanitiaan atau 
+Nullboard adalah sebuah Webapp yang sangat mudah dan praktis untuk digunakan dalam pencatatan task terutama bagi seorang product manager saat sedang dalam tahap pengembangan sebuah product bersama tim pengembang lain.
+
+
 
    
 
