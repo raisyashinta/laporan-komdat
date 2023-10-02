@@ -74,18 +74,22 @@ docker-compose up -d
    e. Jika proses verifikasi berhasil, maka akan otomatis diarahkan ke halaman Azure Education Dashboard dan bisa mulai menggunakan layanan Azure dengan credit sebesar $100 atau selama 365 hari secara gratis.
 
    f. Kemudian create resource (scope access control for administrative actions).
+   
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/10c66e13-0977-47c4-aad8-3d58b3d03d3e)
 
 
    g. Lalu create server ubuntu 22.04 menggunakan resource yang berhasil dibuat sebelumnya.
+   
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/12ec19ac-2ccc-4ec5-874d-c505f4e3721b)
 
 
    h. Setting konfigurasi menggunakan password agar lebih mudah. Masukkan username dan password.
+   
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/4bdc21cb-8102-4bd2-94e0-42a13a958c74)
 
 
    i. Pada tab networking, pilih semua port yang ada.
+   
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/5eee7adc-0283-4c55-a809-113c797c7d07)
 
 
