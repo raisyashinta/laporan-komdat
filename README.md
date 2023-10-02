@@ -63,37 +63,37 @@ docker-compose up -d
 
 **2. Membuat VPS**
 
-   a. Login pada website [Azure](https://azure.microsoft.com/).
+   **a. Login pada website [Azure](https://azure.microsoft.com/).**
 
-   b. Akses Portal Azure for Students, kemudian pilih Start free.
+   **b. Akses Portal Azure for Students, kemudian pilih Start free.**
 
-   c. Isi identitas kemudian selesaikan puzzle yang tersedia, dan pilih Verify academic status pada halaman Student Verification.
+   **c. Isi identitas kemudian selesaikan puzzle yang tersedia, dan pilih Verify academic status pada halaman Student Verification.**
 
-   d. Lanjutkan semua proses yang ada dan isi data sesuai dengan apa yang diminta.
+   **d. Lanjutkan semua proses yang ada dan isi data sesuai dengan apa yang diminta.**
 
-   e. Jika proses verifikasi berhasil, maka akan otomatis diarahkan ke halaman Azure Education Dashboard dan bisa mulai menggunakan layanan Azure dengan credit sebesar $100 atau selama 365 hari secara gratis.
+   **e. Jika proses verifikasi berhasil, maka akan otomatis diarahkan ke halaman Azure Education Dashboard dan bisa mulai menggunakan layanan Azure dengan credit sebesar $100 atau selama 365 hari secara gratis.**
 
-   f. Kemudian create resource (scope access control for administrative actions).
+   **f. Kemudian create resource (scope access control for administrative actions).**
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/10c66e13-0977-47c4-aad8-3d58b3d03d3e)
 
 
-   g. Lalu create server ubuntu 22.04 menggunakan resource yang berhasil dibuat sebelumnya.
+   **g. Lalu create server ubuntu 22.04 menggunakan resource yang berhasil dibuat sebelumnya.**
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/12ec19ac-2ccc-4ec5-874d-c505f4e3721b)
 
 
-   h. Setting konfigurasi menggunakan password agar lebih mudah. Masukkan username dan password.
+   **h. Setting konfigurasi menggunakan password agar lebih mudah. Masukkan username dan password.**
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/4bdc21cb-8102-4bd2-94e0-42a13a958c74)
 
 
-   i. Pada tab networking, pilih semua port yang ada.
+   **i. Pada tab networking, pilih semua port yang ada.**
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/5eee7adc-0283-4c55-a809-113c797c7d07)
 
 
-   j. Kemudian review + create. Setelah selesai melakukan review, langsung klik create.
+   **j. Kemudian review + create. Setelah selesai melakukan review, langsung klik create.**
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/2feedfa6-160a-4833-98a3-710aca7352a4)
 
 
-   k. Jika semua tahapan berhasil di lakukan, maka berhasil masuk ke vm dengan tampilan sebagai berikut.
+   **k. Jika semua tahapan berhasil di lakukan, maka berhasil masuk ke vm dengan tampilan sebagai berikut.**
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/fdfab62e-91ed-4bc8-9a8e-6f082862504a)
 
 
