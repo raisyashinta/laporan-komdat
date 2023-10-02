@@ -44,6 +44,7 @@ Web official : https://nullboard.io/preview
 
 **Nullboard** adalah tampilan minimalis pada papan kanban / pengelola daftar tugas, dirancang agar ringkas, mudah dibaca, dan cepat digunakan.
 
+
 **Nullboard** memiliki fitur sebagai berikut :
 - Membuat, menambahkan, serta menghapus notes
 - Menambahkan board baru serta menghapus board yang ada
@@ -52,6 +53,7 @@ Web official : https://nullboard.io/preview
 - UI Preferences (Color theme, Font size, Font option)
 - Undo/redo untuk 50 kali revisi per board
 
+
 Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 - Single-page web app (hanya satu file HTML, paket jQuery kuno, dan paket font web)
 - Dapat digunakan saat offline (komputer tidak terhubung dengan jaringan)
@@ -59,14 +61,49 @@ Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 - Memiliki Keyboard shortcuts, termasuk Tab'ing melalui notes
 - Mendukung multiple boards dengan near-instant switching
 
+
 Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
 - Hanya dicoba pada Firefox and Chrome, belum dicoba pada Safari dan Microsoft Edge
 - Harus berhati-hati saat membersihkan cache karena menggunakan penyimpanan lokal
 - User Experience masih sangat kurang jika dibuka menggunakan mobile device (tap/touch input), karena Nullboard dibuat untuk penggunaan Keyboard/Mouse
   
+
 **Nullboard** juga dapat dijalankan pada semua sistem yang dapat menjalankan Docker :
 - Windows6
 - macOS
 - Linux
 
+---
+# Instalasi
+Kami menginstall aplikasi pada VM lokal (menggunakan vps azure) sistem operasi yang digunakan adalah Ubuntu 22.04.2.0 LTS
+
+#### Kebutuhan Sistem :
+- Linux atau Windows.
+- HTML
+- Docker
+
+#### Proses Instalasi :
+1. Git clone kemudian run docker.
+    ```
+    docker-compose up -d
+    ```
+
+2. Membuat VPS
+
+   a. Login pada website [Azure](https://azure.microsoft.com/).
+
+   b. Akses Portal Azure for Students, kemudian pilih Start free.
+
+   c. Isi identitas kemudian selesaikan puzzle yang tersedia, dan pilih Verify academic status pada halaman Student Verification.
+
+   d. Lanjutkan semua proses yang ada dan isi data sesuai dengan apa yang diminta.
+
+   e. Jika proses verifikasi berhasil, maka akan otomatis diarahkan ke halaman Azure Education Dashboard dan bisa mulai menggunakan layanan Azure dengan credit sebesar $100 atau selama 365 hari secara gratis.
+
+   f. Kemudian create resource group (scope access control for administrative actions).
+
+   g. Lalu create server ubuntu 22.04 menggunakan resource group yang berhasil dibuat sebelumnya.
+
+
+   
 
