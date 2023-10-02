@@ -62,7 +62,7 @@ Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
 - Hanya dicoba pada Firefox and Chrome, belum dicoba pada Safari dan Microsoft Edge
 - Harus berhati-hati saat membersihkan cache karena menggunakan penyimpanan lokal
-- 
+- User Experience masih sangat kurang jika dibuka menggunakan mobile device (tap/touch input), karena Nullboard dibuat untuk penggunaan Keyboard/Mouse
   
 **Nullboard** juga dapat dijalankan pada semua sistem yang dapat menjalankan Docker :
 - Windows6
