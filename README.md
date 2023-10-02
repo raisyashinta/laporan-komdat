@@ -121,6 +121,12 @@ $ docker compose up -d --build
 ## Cara Pemakaian
 Cara pemakaian Nullboard ini sangat mudah, karena Webapp ini telah menyediakan interface yang mudah dimengerti dan pengguna juga tidak perlu melakukan sign up/sign in pada aplikasi ini.
 
+**Nullboard** juga dapat dijalankan pada semua sistem yang dapat menjalankan Docker :
+- Windows6
+- macOS
+- Linux
+
+
 Berikut merupakan tampilan saat pengguna pertama kali mengakses Nullboard:
 ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/42fef0f9-753a-407d-a7e8-497da9d1d534)
 
@@ -144,6 +150,23 @@ Berikut tampilan Nullboard (dark mode) saat pengguna menuliskan task kepanitiaan
 ---
 ## Pembahasan
 Nullboard adalah sebuah Webapp yang sangat mudah dan praktis untuk digunakan dalam pencatatan task terutama bagi seorang product manager saat sedang dalam tahap pengembangan sebuah product bersama tim pengembang lain.
+
+
+Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
+- Single-page web app (hanya satu file HTML, paket jQuery kuno, dan paket font web)
+- Dapat digunakan saat offline (komputer tidak terhubung dengan jaringan)
+- Semua data disimpan pada penyimpanan lokal
+- Memiliki Keyboard shortcuts, termasuk Tab'ing melalui notes
+- Mendukung multiple boards dengan near-instant switching
+
+
+Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
+- Hanya dicoba pada Firefox and Chrome, belum dicoba pada Safari dan Microsoft Edge
+- Harus berhati-hati saat membersihkan cache karena menggunakan penyimpanan lokal
+- User Experience masih sangat kurang jika dibuka menggunakan mobile device (tap/touch input), karena Nullboard dibuat untuk penggunaan Keyboard/Mouse
+  
+
+
 
 
 
