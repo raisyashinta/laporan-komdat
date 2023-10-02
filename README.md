@@ -207,6 +207,9 @@ Jika dibandingkan dengan aplikasi sejenis seperti Trello yang
 ## Referensi
 
 [Nullboard](https://github.com/rsoper/nullboard)
+
 [Informasi Layanan Microsoft Azure](https://servicedesk.telkomuniversity.ac.id/faq/informasi-layanan-microsoft-azure-telkom-university/)
+
 [How To Deploy Docker In Ubuntu Server Using Azure Portal](https://www.c-sharpcorner.com/article/how-to-deploy-docker-in-ubuntu-server-using-azure-portal/)
+
 [Docker: Pengenalan dan Cara Install Docker pada VPS Ubuntu](https://jagoweb.com/docker--pengenalan-dan-cara-install-docker-pada-vps-ubuntu)
