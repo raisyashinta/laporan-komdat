@@ -128,6 +128,27 @@ $ su - ${USER}
 $ docker ps
 ```
 
+**5. bingung**
+
+Setelah selesai menginstall Docker, selanjutnya Create Compose dengan cara membuat folder melalui terminal dengan command berikut:
+```
+$ mkdir nullboard
+$ cd nullboard
+$ nano docker-compose.yml
+```
+
+selanjutnya copy code yang ada pada docker-compose.yml tersebut dan paste ke terminal.
+
+lalu ctrl+S dan ctrl+X (save dan exit).
+
+kemudian tuliskan perintah berikut pada terminal dan tunggu hingga selesai (webapp berhasil di-deploy)
+```
+$ docker compose up -d --build
+```
+
+
+
+
 
 
    
