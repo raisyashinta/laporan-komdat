@@ -171,4 +171,4 @@ Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
 
 ---
 ## Referensi
-Nullboard adalah sebuah Webapp yang sangat mudah dan praktis untuk digunakan dalam pencatatan task terutama bagi seorang product manager saat sedang dalam tahap pengembangan sebuah product bersama tim pengembang lain.
+bakal diisi sama tatas
