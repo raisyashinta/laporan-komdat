@@ -83,12 +83,12 @@ Kami menginstall aplikasi pada VM lokal (menggunakan vps azure) sistem operasi y
 - Docker
 
 #### Proses Instalasi :
-1. Git clone kemudian run docker.
+**1. Git clone kemudian run docker.**
     ```
     docker-compose up -d
     ```
 
-2. Membuat VPS
+**2. Membuat VPS**
 
    a. Login pada website [Azure](https://azure.microsoft.com/).
 
@@ -103,6 +103,31 @@ Kami menginstall aplikasi pada VM lokal (menggunakan vps azure) sistem operasi y
    f. Kemudian create resource group (scope access control for administrative actions).
 
    g. Lalu create server ubuntu 22.04 menggunakan resource group yang berhasil dibuat sebelumnya.
+
+**3. Set up SSH**
+
+    a. Login kedalam server menggunakan SSH.
+    
+     ```
+    $ ssh dhika@74.249.96.197
+    ```
+
+**4. Set up Docker di VPS**
+
+berikut merupakan langkah-langkah penginstallan Docker:
+```
+$ sudo apt update
+$ sudo apt install apt-transport-https ca-certificates curl software-properties-common
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+$ sudo apt update
+$ sudo apt install docker-ce
+$ sudo systemctl status docker
+$ sudo usermod -aG docker  ${USER}
+$ su - ${USER}
+$ docker ps
+```
+
 
 
    
