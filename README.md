@@ -107,8 +107,7 @@ Kami menginstall aplikasi pada VM lokal (menggunakan vps azure) sistem operasi y
 **3. Set up SSH**
 
     a. Login kedalam server menggunakan SSH.
-    
-     ```
+    ```
     $ ssh dhika@74.249.96.197
     ```
 
@@ -128,7 +127,7 @@ $ su - ${USER}
 $ docker ps
 ```
 
-**5. bingung**
+**5. Deploy Doker ke VPS**
 
 Setelah selesai menginstall Docker, selanjutnya Create Compose dengan cara membuat folder melalui terminal dengan command berikut:
 ```
