@@ -50,6 +50,7 @@ Web official : https://nullboard.io/preview
 - Export dan Import Board
 - Auto-backup
 - UI Preferences (Color theme, Font size, Font option)
+- Undo/redo untuk 50 kali revisi per board
 
 Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 - Single-page web app (hanya satu file HTML, paket jQuery kuno, dan paket font web)
