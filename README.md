@@ -1,4 +1,4 @@
-<h1 align="center">Laporan Projek Akhir <br> Komunikasi Data dan Jaringan Komputer <br> Kelompok 4_Paralel 3</h1>
+<h1 align="center">Laporan Projek Akhir <br> Komunikasi Data dan Jaringan Komputer <br> Kelompok 4 - Paralel 3</h1>
 
 # Anggota
 <table>
@@ -44,11 +44,23 @@ Web official : https://nullboard.io/preview
 
 **Nullboard** adalah tampilan minimalis pada papan kanban / pengelola daftar tugas, dirancang agar ringkas, mudah dibaca, dan cepat digunakan.
 
+**Nullboard** memiliki fitur sebagai berikut :
+- Membuat, menambahkan, serta menghapus notes
+- Menambahkan board baru serta menghapus board yang ada
+- Export dan Import Board
+- Auto-backup
+- UI Preferences (Color theme, Font size, Font option)
+
 Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 - Single-page web app (hanya satu file HTML, paket jQuery kuno, dan paket font web)
 - Dapat digunakan saat offline (komputer tidak terhubung dengan jaringan)
 - Semua data disimpan pada penyimpanan lokal
 - Memiliki Keyboard shortcuts, termasuk Tab'ing melalui notes
 - Mendukung multiple boards dengan near-instant switching
+
+**Nullboard** juga dapat dijalankan pada semua sistem yang dapat menjalankan Docker :
+- Windows6
+- macOS
+- Linux
 
 
