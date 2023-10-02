@@ -1,6 +1,6 @@
 <h1 align="center">Laporan Projek Akhir <br> Komunikasi Data dan Jaringan Komputer <br> Kelompok 4 - Paralel 3</h1>
 
-# Anggota
+## Anggota
 <table>
     <thead>
         <tr>
@@ -36,14 +36,13 @@
 
 ---
 
+# Aplikasi Web "Nullboard"
+## Sekilas tentang Nullboard
+**Nullboard** adalah papan kanban / pengelola daftar tugas yang memiliki tampilan minimalis, dirancang agar ringkas, mudah dibaca, dan cepat digunakan oleh pengguna. Nullboard memungkinkan pengguna nya menuliskan daftar tugas yang dimilki tanpa harus terhubung ke internet.
 
-# Nullboard
 Original repository : https://github.com/rsoper/nullboard
 
 Web official : https://nullboard.io/preview
-
-**Nullboard** adalah tampilan minimalis pada papan kanban / pengelola daftar tugas, dirancang agar ringkas, mudah dibaca, dan cepat digunakan.
-
 
 **Nullboard** memiliki fitur sebagai berikut :
 - Membuat, menambahkan, serta menghapus notes
@@ -74,7 +73,7 @@ Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
 - Linux
 
 ---
-# Instalasi
+## Instalasi
 Kami menginstall aplikasi pada VM lokal (menggunakan vps azure) sistem operasi yang digunakan adalah Ubuntu 22.04.2.0 LTS
 
 #### Kebutuhan Sistem :
