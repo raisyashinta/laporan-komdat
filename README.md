@@ -32,3 +32,21 @@
         </tr>
 </tbody>
 </table>
+
+
+---
+
+
+# Nullboard
+Original repository : https://github.com/rsoper/nullboard
+
+Web official : https://nullboard.io/preview
+
+**Nullboard** adalah tampilan minimalis pada papan kanban / pengelola daftar tugas, dirancang agar ringkas, mudah dibaca, dan cepat digunakan.
+
+Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
+- Single-page web app (hanya satu file HTML, paket jQuery kuno, dan paket font web)
+- Dapat digunakan saat offline (komputer tidak terhubung dengan jaringan)
+- Semua data disimpan pada penyimpanan lokal
+- Memiliki Keyboard shortcuts, termasuk Tab'ing melalui notes
+
