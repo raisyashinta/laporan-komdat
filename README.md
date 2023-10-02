@@ -122,7 +122,7 @@ $ docker compose up -d --build
 Cara pemakaian Nullboard ini sangat mudah, karena Webapp ini telah menyediakan interface yang mudah dimengerti dan pengguna juga tidak perlu melakukan sign up/sign in pada aplikasi ini.
 
 Berikut merupakan tampilan saat pengguna pertama kali mengakses Nullboard:
-![](src/nullboard.png)
+![welcome](path/nullboard.png)
 
 **Nullboard** memiliki fitur sebagai berikut :
 - Membuat, menambahkan, serta menghapus notes
