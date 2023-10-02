@@ -1,12 +1,12 @@
 <h1 align="center">Laporan Projek Akhir <br> Komunikasi Data dan Jaringan Komputer <br> Kelompok 4 - Paralel 3</h1>
 
-## Anggota
+### Anggota
 <table>
     <thead>
         <tr>
             <th></th>
-            <th>Nama</th>
-            <th>Nim</th>
+            <th>NAMA</th>
+            <th>NIM</th>
         </tr>
     </thead>
     <tbody>
