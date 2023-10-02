@@ -106,10 +106,11 @@ Kami menginstall aplikasi pada VM lokal (menggunakan vps azure) sistem operasi y
 
 **3. Set up SSH**
 
-    a. Login kedalam server menggunakan SSH.
-    ```
-    $ ssh dhika@74.249.96.197
-    ```
+Login kedalam server menggunakan SSH.
+
+ ```
+ $ ssh dhika@74.249.96.197
+ ```
 
 **4. Set up Docker di VPS**
 
