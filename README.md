@@ -117,6 +117,21 @@ kemudian tuliskan perintah berikut pada terminal dan tunggu hingga selesai (weba
 $ docker compose up -d --build
 ```
 
+---
+## Cara Pemakaian
+Cara pemakaian Nullboard ini sangat mudah, karena Webapp ini telah menyediakan interface yang mudah dimengerti dan pengguna juga tidak perlu melakukan sign up/sign in pada aplikasi ini.
+
+Berikut merupakan tampilan saat pengguna pertama kali mengakses Nullboard:
+![](src/nullboard.png)
+
+**Nullboard** memiliki fitur sebagai berikut :
+- Membuat, menambahkan, serta menghapus notes
+- Menambahkan board baru serta menghapus board yang ada
+- Export dan Import Board
+- Auto-backup
+- UI Preferences (Color theme, Font size, Font option)
+- Undo/redo untuk 50 kali revisi per board
+
 
 
 
