@@ -122,20 +122,28 @@ $ docker compose up -d --build
 Cara pemakaian Nullboard ini sangat mudah, karena Webapp ini telah menyediakan interface yang mudah dimengerti dan pengguna juga tidak perlu melakukan sign up/sign in pada aplikasi ini.
 
 Berikut merupakan tampilan saat pengguna pertama kali mengakses Nullboard:
-![welcome](path/nullboard.png)
+![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/42fef0f9-753a-407d-a7e8-497da9d1d534)
+
 
 **Nullboard** memiliki fitur sebagai berikut :
 - Membuat, menambahkan, serta menghapus notes
 - Menambahkan board baru serta menghapus board yang ada
+  ![Screenshot (875)](https://github.com/raisyashinta/laporan-komdat/assets/90228957/7eb8d070-35d7-4dbd-8b87-9e343a79a6b3)
 - Export dan Import Board
 - Auto-backup
-- UI Preferences (Color theme, Font size, Font option)
+- UI Preferences (Color theme, Font size)
+- ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/0e883edf-110e-4a9c-9ba2-2489791cf4f5)
 - Undo/redo untuk 50 kali revisi per board
 
+Berikut tampilan Nullboard (light mode) saat pengguna menuliskan task kepanitiaan nya:
+![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/a443e265-1188-4465-9cd6-272ca01efb0d)
 
+Berikut tampilan Nullboard (dark mode) saat pengguna menuliskan task kepanitiaan nya:
+![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/304194e0-4125-4cab-a828-0f0c5cfa4ff0)
 
-
-
+---
+## Pembahasan
+Nullboard adalah sebuah Webapp yang sangat mudah dan praktis untuk digunakan dalam pencatatan task dalam sebuah kepanitiaan atau 
 
    
 
