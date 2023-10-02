@@ -38,39 +38,11 @@
 
 # Aplikasi Web "Nullboard"
 ## Sekilas tentang Nullboard
-**Nullboard** adalah papan kanban / pengelola daftar tugas yang memiliki tampilan minimalis, dirancang agar ringkas, mudah dibaca, dan cepat digunakan oleh pengguna. Nullboard memungkinkan pengguna nya menuliskan daftar tugas yang dimilki tanpa harus terhubung ke internet.
+**Nullboard** adalah papan kanban / pengelola daftar tugas yang memiliki tampilan minimalis, dirancang agar ringkas, mudah dibaca, dan cepat digunakan oleh pengguna. Nullboard memungkinkan pengguna nya menuliskan daftar tugas yang dimilki dan menyesuaikan sesuai dengan masing-masing board yang dibuat.
 
 Original repository : https://github.com/rsoper/nullboard
 
 Web official : https://nullboard.io/preview
-
-**Nullboard** memiliki fitur sebagai berikut :
-- Membuat, menambahkan, serta menghapus notes
-- Menambahkan board baru serta menghapus board yang ada
-- Export dan Import Board
-- Auto-backup
-- UI Preferences (Color theme, Font size, Font option)
-- Undo/redo untuk 50 kali revisi per board
-
-
-Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
-- Single-page web app (hanya satu file HTML, paket jQuery kuno, dan paket font web)
-- Dapat digunakan saat offline (komputer tidak terhubung dengan jaringan)
-- Semua data disimpan pada penyimpanan lokal
-- Memiliki Keyboard shortcuts, termasuk Tab'ing melalui notes
-- Mendukung multiple boards dengan near-instant switching
-
-
-Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
-- Hanya dicoba pada Firefox and Chrome, belum dicoba pada Safari dan Microsoft Edge
-- Harus berhati-hati saat membersihkan cache karena menggunakan penyimpanan lokal
-- User Experience masih sangat kurang jika dibuka menggunakan mobile device (tap/touch input), karena Nullboard dibuat untuk penggunaan Keyboard/Mouse
-  
-
-**Nullboard** juga dapat dijalankan pada semua sistem yang dapat menjalankan Docker :
-- Windows6
-- macOS
-- Linux
 
 ---
 ## Instalasi
