@@ -154,21 +154,21 @@ Nullboard adalah sebuah Webapp yang sangat mudah dan praktis untuk digunakan dal
 
 Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 - Single-page web app (hanya satu file HTML, paket jQuery kuno, dan paket font web)
-- Dapat digunakan saat offline (komputer tidak terhubung dengan jaringan)
+- Mudah dipahami oleh penggguna
 - Semua data disimpan pada penyimpanan lokal
 - Memiliki Keyboard shortcuts, termasuk Tab'ing melalui notes
 - Mendukung multiple boards dengan near-instant switching
+- Memiliki opsi dark dan light theme  
 
 
 Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
 - Hanya dicoba pada Firefox and Chrome, belum dicoba pada Safari dan Microsoft Edge
 - Harus berhati-hati saat membersihkan cache karena menggunakan penyimpanan lokal
+- Karena penyimpanan lokal, maka jika pengguna membuka Nullboard menggunakan browser yang berbeda maka data akan berbeda juga
+- Jika pengguna membuka Nullboard pada browser yang sama, namun pada akun yang berbeda maka data akan berbeda juga
 - User Experience masih sangat kurang jika dibuka menggunakan mobile device (tap/touch input), karena Nullboard dibuat untuk penggunaan Keyboard/Mouse
-  
 
 
-
-
-
-   
-
+---
+## Referensi
+Nullboard adalah sebuah Webapp yang sangat mudah dan praktis untuk digunakan dalam pencatatan task terutama bagi seorang product manager saat sedang dalam tahap pengembangan sebuah product bersama tim pengembang lain.
