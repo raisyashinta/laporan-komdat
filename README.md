@@ -49,4 +49,6 @@ Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 - Dapat digunakan saat offline (komputer tidak terhubung dengan jaringan)
 - Semua data disimpan pada penyimpanan lokal
 - Memiliki Keyboard shortcuts, termasuk Tab'ing melalui notes
+- Mendukung multiple boards dengan near-instant switching
+
 
