@@ -59,6 +59,11 @@ Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 - Memiliki Keyboard shortcuts, termasuk Tab'ing melalui notes
 - Mendukung multiple boards dengan near-instant switching
 
+Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
+- Hanya dicoba pada Firefox and Chrome, belum dicoba pada Safari dan Microsoft Edge
+- Harus berhati-hati saat membersihkan cache karena menggunakan penyimpanan lokal
+- 
+  
 **Nullboard** juga dapat dijalankan pada semua sistem yang dapat menjalankan Docker :
 - Windows6
 - macOS
