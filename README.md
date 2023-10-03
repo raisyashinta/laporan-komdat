@@ -220,6 +220,16 @@ Nullboard: cocok digunakan untuk proyek kecil hingga menengah karena memiliki fi
 
 Wekan: cocok igunakan dalam proyek-proyek besar dengan jumlah tim yang lebih banyak karena memiliki lebih banyak fitur dan fleksibel.
 
+
+**Nullboard vs Wekan**
+- Trello dapat digunakan untuk berkolaborasi dengan anggota tim untuk mengelola proyek, sedangkan Nullboard hanya bisa untuk penggunaan pribadi yang memiliki daftar tugas sederhana
+
+- Trello hanya dapat digunakan secara online, Nullboard dapat digunakan secara offline
+
+- Trello memiliki antarmuka yang lebih lengkap dan fitur yang lebih banyak dengan kostumisasi yang dapat dilakukan lebih banyak, Nullboard memiliki antarmuka pengguna yang sangat sederhana dan minimalis, dengan kostumisasi terbatas dan cukup banyak fitur tambahan.
+
+- Trello memiliki versi gratis dengan opsi pembayaran tambahan untuk fitur-fitur tambahan. Nullboard adalah perangkat lunak sumber terbuka (open source) dan gratis untuk digunakan.
+
 ---
 ## Referensi
 
