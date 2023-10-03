@@ -230,3 +230,5 @@ Wekan: cocok igunakan dalam proyek-proyek besar dengan jumlah tim yang lebih ban
 [How To Deploy Docker In Ubuntu Server Using Azure Portal](https://www.c-sharpcorner.com/article/how-to-deploy-docker-in-ubuntu-server-using-azure-portal/)
 
 [Docker: Pengenalan dan Cara Install Docker pada VPS Ubuntu](https://jagoweb.com/docker--pengenalan-dan-cara-install-docker-pada-vps-ubuntu)
+
+[WeKan](https://wekan-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc)
