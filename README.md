@@ -56,7 +56,7 @@ Kami menginstall aplikasi pada VM lokal (menggunakan vps azure) sistem operasi y
 #### Proses Instalasi :
 **1. Git clone kemudian run docker.**
 ```
-docker-compose up -d
+docker-compose up -d --build
 ```
 ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/d89fc21e-82c8-406e-8994-851c3dbbcef0)
 
