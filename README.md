@@ -78,7 +78,7 @@ docker-compose up -d
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/10c66e13-0977-47c4-aad8-3d58b3d03d3e)
 
 
-   g. Lalu create server ubuntu 22.04 menggunakan resource yang berhasil dibuat sebelumnya.
+   g. Lalu create virtual machine menggunakan resource yang berhasil dibuat sebelumnya.
    
    ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/12ec19ac-2ccc-4ec5-874d-c505f4e3721b)
 
