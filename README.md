@@ -40,9 +40,9 @@
 ## Sekilas tentang Nullboard
 **Nullboard** adalah papan kanban / pengelola daftar tugas yang memiliki tampilan minimalis, dirancang agar ringkas, mudah dibaca, dan cepat digunakan oleh pengguna. Nullboard memungkinkan pengguna nya menuliskan daftar tugas yang dimilki dan menyesuaikan sesuai dengan masing-masing board yang dibuat.
 
-Original repository : https://github.com/rsoper/nullboard
+Original repository: https://github.com/rsoper/nullboard
 
-Web official : https://nullboard.io/preview
+Web official: https://nullboard.io/preview
 
 ---
 ## Instalasi
