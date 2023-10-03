@@ -80,7 +80,7 @@ docker-compose up -d
 
    g. Lalu create virtual machine menggunakan resource yang berhasil dibuat sebelumnya.
    
-   ![image](https://github.com/raisyashinta/laporan-komdat/assets/90228957/12ec19ac-2ccc-4ec5-874d-c505f4e3721b)
+   ![image](https://github.com/raisyashinta/laporan-komdat/assets/90018535/9289fde8-120c-4bba-930a-53d24eab3ace)
 
 
    h. Setting konfigurasi menggunakan password agar lebih mudah. Masukkan username dan password.
