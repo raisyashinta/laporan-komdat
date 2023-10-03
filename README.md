@@ -200,8 +200,19 @@ Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
 - Jika pengguna membuka Nullboard pada browser yang sama, namun pada akun yang berbeda maka data akan berbeda juga
 - User Experience masih sangat kurang jika dibuka menggunakan mobile device (tap/touch input), karena Nullboard dibuat untuk penggunaan Keyboard/Mouse
 
+**Nullboard vs Wekan**
 
-Jika dibandingkan dengan aplikasi sejenis seperti Trello yang 
+Antarmuka Pengguna (UI/UX) :
+Nullboard: Nullboard menawarkan antarmuka pengguna yang sangat sederhana dan minimalis, sehingga tidak membingungkan dengan cukup banyak fitur tambahan.
+Wekan: Wekan memiliki antarmuka yang lebih lengkap dan fitur yang lebih lengkap, namun thal tersebut membuatnya terasa lambat. 
+
+Fitur-fitur Tambahan:
+Nullboard: tidak memiliki integrasi pihak ketiga yang kuat dan penyimpanan lokal sehingga tidak bergantung pada cloud.
+Wekan: memiliki integrasi dengan pihak ketiga seperti Dropbox, dan integrasi webhook untuk mengatur izin akses lebih rinci. Wekan juga tidak memiliki opsi penyimpanan lokal di komputer, sehingga memiliki ketergantungan pada server atau cloud.
+
+Skalabilitas Proyek:
+Nullboard: Nullboard lebih cocok untuk proyek tugas kecil hingga menengah karena kesederhanaan dan keterbatasannya dalam fitur.
+Wekan: Wekan memiliki lebih banyak fitur dan fleksibilitas yang memungkinkannya digunakan dalam proyek-proyek besar dengan tim yang lebih besar.
 
 ---
 ## Referensi
