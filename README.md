@@ -194,7 +194,7 @@ Berikut merupakan kelebihan yang dimiliki oleh **Nullboard** :
 
 
 Beberapa kekurangan yang masih dimiliki oleh **Nullboard** :
-- Hanya dicoba pada Firefox and Chrome, belum dicoba pada Safari dan Microsoft Edge
+- Hanya dicoba pada Firefox, Microsoft Edge and Chrome, belum dicoba pada Safari
 - Harus berhati-hati saat membersihkan cache karena menggunakan penyimpanan lokal
 - Karena penyimpanan lokal, maka jika pengguna membuka Nullboard menggunakan browser yang berbeda maka data akan berbeda juga
 - Jika pengguna membuka Nullboard pada browser yang sama, namun pada akun yang berbeda maka data akan berbeda juga
